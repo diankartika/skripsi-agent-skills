@@ -1,0 +1,44 @@
+{
+  "batch": "12_uis",
+  "timestamp": "20261108_211044",
+  "model": "gemini-3.7-flash",
+  "total_uis": 3,
+  "results": {
+    "01": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "02": {
+      "Zero-shot": null,
+      "Few-shot": [
+        {
+          "violated_heuristic": "H4 — Consistency and Standards",
+          "interface_element": "Customer Reviews star rating display",
+          "rationale": "The customer review summary shows a score of '4.8 out of 5', yet all five star icons are rendered completely empty (unfilled), directly conflicting with the numeric rating.",
+          "improvement_suggestion": "Fill the star icons proportionally to visually represent the 4.8 out of 5 average rating.",
+          "severity": 2
+        },
+        {
+          "violated_heuristic": "H6 — Recognition Rather Than Recall",
+          "interface_element": "Color selection swatches",
+          "rationale": "The color options under 'Select Color' display colored circles without any corresponding color name or text label indicating which color variant is currently active.",
+          "improvement_suggestion": "Display the name of the selected color next to or above the swatches (e.g., 'Select Color: Off-White').",
+          "severity": 1
+        },
+        {
+          "violated_heuristic": "H4 — Consistency and Standards",
+          "interface_element": "Product image gallery",
+          "rationale": "The secondary thumbnail image displays an entirely different product style (a black athletic trainer/runner with an amber heel) compared to the primary canvas low-top sneaker shown in the main view and lifestyle photo, creating confusion about the actual item being purchased.",
+          "improvement_suggestion": "Ensure all product gallery images represent views and details of the same footwear model.",
+          "severity": 3
+        }
+      ],
+      "Chain-of-thought": null
+    },
+    "03": {
+      "Zero-shot": null,
+      "Few-shot": null
+    }
+  }
+}

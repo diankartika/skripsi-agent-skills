@@ -1,0 +1,68 @@
+{
+  "batch": "12_uis",
+  "timestamp": "20261108_210153",
+  "model": "gemini-3.7-flash",
+  "total_uis": 12,
+  "results": {
+    "01": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "02": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "03": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "04": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "05": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "06": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "07": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "08": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "09": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "10": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "11": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    },
+    "12": {
+      "Zero-shot": null,
+      "Few-shot": null,
+      "Chain-of-thought": null
+    }
+  }
+}

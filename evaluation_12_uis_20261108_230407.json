@@ -1,0 +1,293 @@
+{
+  "batch": "12_uis",
+  "timestamp": "20261108_230407",
+  "model": "gemini-3.6-flash",
+  "total_uis": 12,
+  "results": {
+    "01": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      }
+    },
+    "02": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      }
+    },
+    "03": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      }
+    },
+    "04": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      }
+    },
+    "05": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      }
+    },
+    "06": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      }
+    },
+    "07": {
+      "Zero-shot": {
+        "status": "success",
+        "findings": [
+          {
+            "violated_heuristic": "H1 — Visibility of System Status",
+            "interface_element": "Star rating displays on product cards",
+            "rationale": "All four products display five empty star outlines without any numerical score or review count, making it unclear whether the items have zero reviews, are unrated, or if rating data failed to load.",
+            "improvement_suggestion": "Display the numeric rating value and total review count next to the star icons (e.g., '4.8 (120)'), or hide the rating component entirely for unrated items.",
+            "severity": 2
+          },
+          {
+            "violated_heuristic": "H7 — Flexibility and Efficiency of Use",
+            "interface_element": "Product cards in grid section",
+            "rationale": "Product cards display a favorite/wishlist icon but lack a direct 'Add to Bag' or 'Quick View' button, requiring users to navigate into detail pages to add items to their cart.",
+            "improvement_suggestion": "Add a quick 'Add to Cart' or 'Quick View' action directly on the product cards to streamline the shopping workflow for intent-driven buyers.",
+            "severity": 2
+          },
+          {
+            "violated_heuristic": "H8 — Aesthetic and Minimalist Design",
+            "interface_element": "Subcategory text under product titles (e.g., 'ATELIER L'ÉLÉGANCE', 'HERITAGE SERIES')",
+            "rationale": "The secondary metadata text below the product titles uses a dark, low-contrast grey color against a black background, making it difficult to read.",
+            "improvement_suggestion": "Increase the visual contrast of the subcategory labels to meet contrast guidelines and improve legibility.",
+            "severity": 1
+          }
+        ],
+        "error": null
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 12 column 18 (char 761)"
+      }
+    },
+    "08": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 12 column 18 (char 768)"
+      },
+      "Few-shot": {
+        "status": "success",
+        "findings": [
+          {
+            "violated_heuristic": "H4 — Consistency and Standards",
+            "interface_element": "Product gallery thumbnail",
+            "rationale": "The active first thumbnail in the product gallery displays a mobile app interface screen, which is entirely inconsistent with the product being viewed (an evening gown) and does not correspond to the main featured image.",
+            "improvement_suggestion": "Replace the incorrect image thumbnail with an actual photo or detailed shot of the gown.",
+            "severity": 3
+          },
+          {
+            "violated_heuristic": "H1 — Visibility of System Status",
+            "interface_element": "Product star rating indicator",
+            "rationale": "The product displays five completely un unfilled star icons despite indicating '(48 Reviews)', leaving users uninformed about the actual average customer rating score.",
+            "improvement_suggestion": "Fill the star icons proportionally according to the average review score and display the numerical average alongside the count.",
+            "severity": 2
+          },
+          {
+            "violated_heuristic": "H8 — Aesthetic and Minimalist Design",
+            "interface_element": "Header search bar text",
+            "rationale": "The placeholder text 'Search Atelier...' in the top navigation search bar has extremely low visual contrast against the dark background, hindering legibility.",
+            "improvement_suggestion": "Increase the visual contrast of the search placeholder text to satisfy basic visual accessibility guidelines.",
+            "severity": 2
+          }
+        ],
+        "error": null
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 10 column 27 (char 589)"
+      }
+    },
+    "09": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 5 column 18 (char 164)"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 6 column 31 (char 363)"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "Expecting property name enclosed in double quotes: line 5 column 204 (char 350)"
+      }
+    },
+    "10": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 5 column 18 (char 137)"
+      },
+      "Few-shot": {
+        "status": "success",
+        "findings": [
+          {
+            "violated_heuristic": "H4 — Consistency and Standards",
+            "interface_element": "Product image thumbnail gallery",
+            "rationale": "The thumbnail gallery displays images of completely unrelated products (headphones and a potted plant) next to the main product view. Standard e-commerce conventions require gallery thumbnails to show alternate angles, details, or color variants of the current item.",
+            "improvement_suggestion": "Replace the unrelated thumbnails with high-quality alternate views and detail shots of the CHRONO-01 ARCHIVE watch.",
+            "severity": 3
+          },
+          {
+            "violated_heuristic": "H4 — Consistency and Standards",
+            "interface_element": "Footer copyright notice",
+            "rationale": "The header and primary branding prominently state 'MODERN', but the footer copyright notice attributes the site to 'ARKT MARKETPLACE'. This discrepancy creates confusion about brand identity and seller authenticity.",
+            "improvement_suggestion": "Align the copyright text with the site's brand name ('MODERN') or clarify the relationship explicitly (e.g., 'MODERN by ARKT MARKETPLACE').",
+            "severity": 1
+          },
+          {
+            "violated_heuristic": "H6 — Recognition Rather Than Recall",
+            "interface_element": "Secure checkout payment icons",
+            "rationale": "The secondary icon in the 'SECURE CHECKOUT' panel is abstract and non-standard, making it difficult for users to identify which payment method or security provider it represents.",
+            "improvement_suggestion": "Replace abstract icons with standard, recognizable payment provider logos (such as Visa, Mastercard, Apple Pay, or PayPal).",
+            "severity": 2
+          }
+        ],
+        "error": null
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 20 column 31 (char 1692)"
+      }
+    },
+    "11": {
+      "Zero-shot": {
+        "status": "success",
+        "findings": [
+          {
+            "violated_heuristic": "H1 — Visibility of System Status",
+            "interface_element": "Shopping cart icon in the header",
+            "rationale": "The shopping cart icon in the top navigation bar does not feature a badge or item count indicator to reflect the current bag state (2 items), leaving users without visual confirmation of their cart status when navigating the header.",
+            "improvement_suggestion": "Add a dynamic visual badge (e.g., showing '2') over the cart icon to indicate the number of items currently in the shopping bag.",
+            "severity": 1
+          },
+          {
+            "violated_heuristic": "H3 — User Control and Freedom",
+            "interface_element": "'Saved For Later' product cards",
+            "rationale": "Items in the 'Saved For Later' section only feature a 'MOVE TO BAG' action without a direct option to remove or delete items. Users who no longer want a saved item are forced to move it back into their active shopping bag before they can remove it.",
+            "improvement_suggestion": "Provide a clear 'Remove' button or icon on each card in the 'Saved For Later' section so users can easily delete items.",
+            "severity": 2
+          }
+        ],
+        "error": null
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 13 column 31 (char 842)"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "Unterminated string starting at: line 18 column 26 (char 1243)"
+      }
+    },
+    "12": {
+      "Zero-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Expecting property name enclosed in double quotes: line 5 column 195 (char 336)"
+      },
+      "Few-shot": {
+        "status": "failed",
+        "findings": null,
+        "error": "Expecting value: line 28 column 16 (char 2173)"
+      },
+      "Chain-of-thought": {
+        "status": "failed",
+        "findings": null,
+        "error": "Expecting ',' delimiter: line 21 column 18 (char 1793)"
+      }
+    }
+  }
+}
